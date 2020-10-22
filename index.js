@@ -92,7 +92,7 @@ form.addEventListener("submit", (e) => {
   }
 
   // State
-  if (state.value === "Pick a state") {
+  if (state.value === "") {
     state.classList.add("alert-danger");
     state.classList.add("is-invalid");
     fields.classList.remove("d-none");
