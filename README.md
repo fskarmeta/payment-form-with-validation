@@ -3,4 +3,5 @@
 
 All fields require a valid input
 
-![Screenshot](./Screenshot.png/)
+![Screenshot](./Screenshot1.png/)
+![Screenshot](./Screenshot2.png/)
